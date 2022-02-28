@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script shows the number of directories in a given directory 
-# and recursively in all its subdirectories.
+# and recursively in all its subdirectories
 
 if [ $# = 0 ]
 then
