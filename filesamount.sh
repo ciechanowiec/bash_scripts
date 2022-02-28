@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script shows the number of files in a given 
-# directory and recursively in all its subdirectories.
+# directory and recursively in all its subdirectories
 
 if [ $# = 0 ]
 then
